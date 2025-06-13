@@ -1,0 +1,7 @@
+{
+  "name": "spStringFuncs",
+  "description": "A CPP library with functions for handling strings.",
+  "version": "1.0.0",
+  "frameworks": "*",
+  "platforms": "*"
+}
