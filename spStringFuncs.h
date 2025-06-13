@@ -11,7 +11,7 @@
 
 /**
  * Version history:
- * v1.0.0   initial version
+ * v1.0.0   initial version, tag = v1.0.0
  *  
  */
 
