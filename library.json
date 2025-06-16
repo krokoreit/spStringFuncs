@@ -2,7 +2,7 @@
   "name": "spStringFuncs",
   "description": "A CPP library with functions for handling strings.",
   "keywords": "CPP, library, krokoreit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "frameworks": "*",
   "platforms": "*"
 }
